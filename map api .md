@@ -2,7 +2,7 @@ The Places API has a robust set of data that can be retrieved and displayed on t
 
 Example data fields that can be retrieved and displayed include: address, name, photo, type, phone number, website, opening hours, user ratings. To get a detailed list of details available for display, view this list . It is recommended to choose what parameters you want to display instead of showing it all to optimise cost
 
-```
+``` javascript
 <!DOCTYPE html>
 <!--
  @license

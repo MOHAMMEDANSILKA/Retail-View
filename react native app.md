@@ -9,3 +9,7 @@ part 1) Chat application for B2B
 part 2) product listing took from google
 
 part 3) brand onboarding
+
+
+devolopment env: react native 
+

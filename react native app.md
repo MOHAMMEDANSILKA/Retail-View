@@ -13,3 +13,7 @@ part 3) brand onboarding
 
 devolopment env: react native 
 
+design language : white background simple and scalable looking 
+
+
+
